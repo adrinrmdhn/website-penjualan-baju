@@ -1,0 +1,9 @@
+website-penjualan-baju/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── script.js
+├── images/
+└── products/
+    └── product1.html
